@@ -1,5 +1,6 @@
 INSERT INTO department (name)
-VALUES ("Science");
+VALUES ("Science"),
+        ("AdvisoryBoard");
 
 INSERT INTO role (title, salary, department_id)
 VALUES ("manager", 30000, 1);
